@@ -1,3 +1,6 @@
 [submodule "imersao-fullcycle"]
 	path = imersao-fullcycle
 	url = https://github.com/elmoura/imersao-fullcycle
+[submodule "codepix-go"]
+	path = codepix-go
+	url = https://github.com/elmoura/codepix-go
